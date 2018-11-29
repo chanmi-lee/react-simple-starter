@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# ReactSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
@@ -23,3 +23,10 @@ Click [here](https://github.com/chanmi-lee/react-simple-starter) then download t
 > npm install
 > npm start
 ```
+
+#### Get Credentials
+Get your own YouTube API Key by enabling APIs and creating its credentials on [Google Console](https://console.developers.google.com/)
+
+- Enable YouTube Data API
+- Create credentials
+- Replace API_KEY with your API key
